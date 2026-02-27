@@ -1,0 +1,19 @@
+title: "Multimodal LLM Agents"
+description: "A self-paced online course on multimodal LLM agents, based on CS 6960 at the University of Utah"
+baseurl: "/Multimodal-LLM-Agents-Course-Public"
+url: "https://sparklabutah.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+
+header_pages:
+  - syllabus.md
+  - schedule.md
+  - assignments.md
+  - resources.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
