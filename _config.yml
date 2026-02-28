@@ -9,10 +9,9 @@ minima:
   skin: classic
 
 header_pages:
-  - syllabus.md
+  - index.md
   - schedule.md
   - assignments.md
-  - resources.md
 
 plugins:
   - jekyll-feed
