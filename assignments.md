@@ -10,16 +10,16 @@ These are the programming assignments from CS 6960. In this self-paced version o
 
 ## HW0
 
-_Description coming soon._
+[Download HW0]({{ site.baseurl }}/Assignments/HW0.docx)
 
 ---
 
 ## HW1 — LLM Frameworks
 
-_Description coming soon._
+[Download HW1]({{ site.baseurl }}/Assignments/HW1_instructions.docx)
 
 ---
 
 ## HW2 — RAG Agent
 
-_Description coming soon._
+[Download HW2]({{ site.baseurl }}/Assignments/HW2_instructions.docx)

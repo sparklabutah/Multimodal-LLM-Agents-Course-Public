@@ -12,10 +12,10 @@ Lectures are organized into modules. Work through them in order. Slides link to 
 
 | # | Topic | Slides | Recording |
 |---|-------|--------|-----------|
-| 1 | Course Overview & Introduction to Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%201%20-%20Agents%20_%20Syllabus.pdf) | Coming Soon |
-| 2 | RL Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%202%20-%20RL%20Review.pdf) | Coming Soon |
-| 3 | LLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%203%20-%20LLM%20Review.pdf) | Coming Soon |
-| 4 | VLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%204%20-%20VLM%20Review.pdf) | Coming Soon |
+| 1 | Course Overview & Introduction to Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%201%20-%20Agents%20_%20Syllabus.pdf) | [YouTube](https://youtu.be/y72JxoSqPG0) |
+| 2 | RL Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%202%20-%20RL%20Review.pdf) | [YouTube](https://youtube.com/live/Rc1L3s9PKJM?feature=share) |
+| 3 | LLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%203%20-%20LLM%20Review.pdf) | [YouTube](https://youtube.com/live/OckZtR_Hknk?feature=share) |
+| 4 | VLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%204%20-%20VLM%20Review.pdf) | [YouTube](https://youtu.be/vUuO90RbNMI) |
 
 ---
 
@@ -23,7 +23,7 @@ Lectures are organized into modules. Work through them in order. Slides link to 
 
 | # | Topic | Slides | Recording |
 |---|-------|--------|-----------|
-| 5 | Agent Frameworks | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%205%20-%20Agent%20Frameworks.pdf) | Coming Soon |
+| 5 | Agent Frameworks | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%205%20-%20Agent%20Frameworks.pdf) | [YouTube](https://youtube.com/live/-iX2pJiF-4g?feature=share) |
 
 ---
 
@@ -31,7 +31,7 @@ Lectures are organized into modules. Work through them in order. Slides link to 
 
 | # | Topic | Slides | Recording |
 |---|-------|--------|-----------|
-| 6 | RAG & Memory | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%206%20-%20RAG%20%26%20Memory.pdf) | Coming Soon |
+| 6 | RAG & Memory | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%206%20-%20RAG%20%26%20Memory.pdf) | [YouTube](https://youtube.com/live/WpOckWmuxRM?feature=share) |
 
 ---
 
@@ -39,7 +39,7 @@ Lectures are organized into modules. Work through them in order. Slides link to 
 
 | # | Topic | Slides | Recording |
 |---|-------|--------|-----------|
-| 7 | Tool Use | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%207%20-%20Tool%20Use.pdf) | Coming Soon |
+| 7 | Tool Use | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%207%20-%20Tool%20Use.pdf) | [YouTube](https://youtube.com/live/bZ9IFALv438?feature=share) |
 
 ---
 
