@@ -18,12 +18,12 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 1: Introduction & Prerequisites
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 1 | Course Overview & Introduction to Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%201%20-%20Agents%20_%20Syllabus.pdf) | [YouTube](https://youtu.be/y72JxoSqPG0) |
-| 2 | RL Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%202%20-%20RL%20Review.pdf) | [YouTube](https://youtube.com/live/Rc1L3s9PKJM?feature=share) |
-| 3 | LLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%203%20-%20LLM%20Review.pdf) | [YouTube](https://youtube.com/live/OckZtR_Hknk?feature=share) |
-| 4 | VLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%204%20-%20VLM%20Review.pdf) | [YouTube](https://youtu.be/vUuO90RbNMI) |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Course Overview & Introduction to Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%201%20-%20Agents%20_%20Syllabus.pdf) | [YouTube](https://youtu.be/y72JxoSqPG0) |
+| RL Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%202%20-%20RL%20Review.pdf) | [YouTube](https://youtube.com/live/Rc1L3s9PKJM?feature=share) |
+| LLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%203%20-%20LLM%20Review.pdf) | [YouTube](https://youtube.com/live/OckZtR_Hknk?feature=share) |
+| VLM Review | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%204%20-%20VLM%20Review.pdf) | [YouTube](https://youtu.be/vUuO90RbNMI) |
 
 **Reinforcement Learning**
 - [Reinforcement Learning — Sutton & Barto (free textbook)](http://incompleteideas.net/book/RLbook2020.pdf)
@@ -54,9 +54,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 2: Agent Frameworks
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 5 | Agent Frameworks | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%205%20-%20Agent%20Frameworks.pdf) | Not yet available |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Agent Frameworks | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%205%20-%20Agent%20Frameworks.pdf) | [YouTube](https://www.youtube.com/live/-iX2pJiF-4g?si=Jxvd8Y32G84-joDW) |
 
 **Readings**
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
@@ -69,9 +69,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 3: Retrieval and Memory
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 6 | RAG & Memory | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%206%20-%20RAG%20%26%20Memory.pdf) | [YouTube](https://youtube.com/live/WpOckWmuxRM?feature=share) |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| RAG & Memory | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%206%20-%20RAG%20%26%20Memory.pdf) | [YouTube](https://youtube.com/live/WpOckWmuxRM?feature=share) |
 
 **Readings**
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
@@ -84,9 +84,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 4: Tool Use
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 7 | Tool Use | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%207%20-%20Tool%20Use.pdf) | [YouTube](https://youtube.com/live/bZ9IFALv438?feature=share) |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Tool Use | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%207%20-%20Tool%20Use.pdf) | [YouTube](https://youtube.com/live/bZ9IFALv438?feature=share) |
 
 **Readings**
 - [TALM: Tool Augmented Language Models](https://arxiv.org/abs/2205.12255)
@@ -99,9 +99,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 5: Code Agents
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 8 | Coding Agents | [PPTX]({{ site.baseurl }}/Lecture%20Slides/Lecture%208%20-%20Coding%20Agents.pptx) | Coming Soon |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Coding Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%208%20-%20Coding%20Agents.pdf) | Not available |
 
 **Readings**
 - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
@@ -121,9 +121,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 6: Agent Evaluation
 
-| # | Topic | Slides | Recording |
-|---|-------|--------|-----------|
-| 9 | Evaluation | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%209%20-%20Evaluation.pdf) | [YouTube](https://www.youtube.com/watch?v=FORVR-mFCaI&list=PLQtERs_XIF8BA2Y1xDnxiDaL_SgKSHgPq&index=8) |
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Evaluation | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%209%20-%20Evaluation.pdf) | [YouTube](https://www.youtube.com/live/FORVR-mFCaI?si=hRUSCl-EUZTwTDBC) |
 
 **Readings**
 - [AI Agents That Matter](https://arxiv.org/abs/2407.01502)
@@ -136,7 +136,9 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ## Module 7: Assistant Agents
 
-_Slides and recording coming soon._
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Assistant Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%2010%20-%20Assistant%20Agents.pdf) | [YouTube](https://www.youtube.com/live/_bl2gGDbVTs?si=_orz6e431KZ7QUgT) |
 
 **Readings**
 - [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983)
@@ -149,7 +151,9 @@ _Slides and recording coming soon._
 
 ## Module 8: Game Agents
 
-_Slides and recording coming soon._
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Game Agents | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%2011%20-%20Game%20Agents.pdf) | [YouTube](https://www.youtube.com/live/ul8cZZ1kbTU?si=Ywv6zKieFOfXMxg3) |
 
 **Readings**
 - [SIMA 2: A Generalist Embodied Agent for Virtual Worlds](https://arxiv.org/abs/2512.04797)
@@ -161,7 +165,9 @@ _Slides and recording coming soon._
 
 ## Module 9: Computer Use
 
-_Slides and recording coming soon._
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Computer Use | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%2012%20-%20Computer%20Use.pdf) | [YouTube](https://www.youtube.com/live/lgY80uGcxjQ?si=EG49rLWfRsk9iRUE) |
 
 **Readings**
 - [Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning](https://arxiv.org/abs/2405.10292v1)
@@ -177,13 +183,15 @@ _Slides and recording coming soon._
 - [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164)
 - [OpenCUA: Open Foundations for Computer-Use Agents](https://arxiv.org/abs/2508.09123)
 - [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
-- [Web Agents: A Survey and Outlook](https://iclr-blogposts.github.io/2026/blog/2026/web-agent/)
+- [Computer Use Survey - A Visual Survey of Computer Use Agents](https://iclr-blogposts.github.io/2026/blog/2026/web-agent/)
 
 ---
 
 ## Module 10: Robotics
 
-_Slides and recording coming soon._
+| Topic | Slides | Recording |
+|-------|--------|-----------|
+| Robotics | [PDF]({{ site.baseurl }}/Lecture%20Slides/Lecture%2013%20-%20Robotics.pdf) | [YouTube](https://www.youtube.com/live/Mf28sREwvW0?si=NJRU5Sw_7-yZKc5h) |
 
 **Readings**
 - [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)
