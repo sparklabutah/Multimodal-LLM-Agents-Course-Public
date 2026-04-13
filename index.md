@@ -55,6 +55,14 @@ Each module on the [Lectures & Resources]({{ site.baseurl }}/schedule/) page con
 
 ---
 
+## Related Courses
+
+- [Duke Course — Building Intelligent Agents with Frontier Models](https://www.shuyanzhou.com/teaching/25fall-590/25fall-590.html)
+- [Berkeley Course — Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
+- [MOOC — Advanced Large Language Model Agents](https://agenticai-learning.org/sp25)
+
+---
+
 ## About the Instructor
 
 **Kenneth Marino** is a faculty member at the [Kahlert School of Computing](https://www.cs.utah.edu/) at the University of Utah, where he teaches CS 6960 and researches multimodal AI and agents. This site is maintained as a public companion to that course.

@@ -8,14 +8,6 @@ Work through the modules in order. Each module includes lecture slides, recordin
 
 ---
 
-## Related Courses
-
-- [Duke Course — Building Intelligent Agents with Frontier Models](https://www.shuyanzhou.com/teaching/25fall-590/25fall-590.html)
-- [Berkeley Course — Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
-- [MOOC — Advanced Large Language Model Agents](https://agenticai-learning.org/sp25)
-
----
-
 <details markdown="1">
 <summary><strong>Module 1: Introduction & Prerequisites</strong></summary>
 
